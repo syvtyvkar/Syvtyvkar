@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Header](https://github.com/syvtyvkar/animated-robot/blob/master/github-header-banner.png)
+![Header](https://github.com/syvtyvkar/Syvtyvkar/blob/main/github-header-banner.png)
 
 
 <!--
