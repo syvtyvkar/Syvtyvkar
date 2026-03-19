@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Header](https://github.com/syvtyvkar/animated-robot/blob/master/github-header-banner.png)
+
+
 <!--
 **syvtyvkar/Syvtyvkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
