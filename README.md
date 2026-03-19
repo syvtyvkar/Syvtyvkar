@@ -29,6 +29,7 @@ I specialize in end-to-end gameplay programming and system architecture within t
 - **Animation:** Animation Instance, Animations Blueprint, Animation Blendspace, Animation Aim Offset, Setting up animations.
 - **Editor Tools:** Developing custom ttols for Unreal Engine 4/5 to improve workflow.
 - **Gameplay Ability System (GAS):** Integration and support
+- **Documentation:** I try to document my work in detail (Whether it's comments or full-fledged documentation on assets).
 
 ## 🏗️ Engineering
 
