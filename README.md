@@ -40,7 +40,7 @@ Beyond writing code, I focus on the long-term helth of the project:
 - **Optimization:** Profiling (GPU/CPU/Memory) and performance tuning.
 - **Full-Cycle:** Experience with both Backend and Frontend concepts.
 
-## 🎯 Projects
+# 🎯 Projects
 
 I have contributed to the development of commercial projects:
 
@@ -49,7 +49,7 @@ I have contributed to the development of commercial projects:
 | PIONER |2021 - Present|Middle Developer|[Website](https://pionergame.com/ru)|
 | Orange Cast |2016 - 2021|Middle Developer|[Steam](https://store.steampowered.com/app/1194050/Orange_Cast_SciFi_Space_Action_Game/)|
 
-## 📚 Currently learning
+# 📚 Currently learning
 
 I am actively expanding my horizons in low-level graphics and build systems:
 
