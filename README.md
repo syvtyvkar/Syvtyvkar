@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 ![Header](https://github.com/syvtyvkar/Syvtyvkar/blob/main/github-header-banner.png)
 
