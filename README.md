@@ -47,7 +47,7 @@ I have contributed to the development of commercial projects:
 |Project|Period|Role|Description|
 | :--- | :--- |:--- |:--- |
 | PIONER |2021 - Present|Middle Developer|[Website](https://pionergame.com/ru)|
-| Orange Cast |2016 - 2021|Middle Developer|[Steam](https://store.steampowered.com/app/1194050/Orange_Cast_SciFi_Space_Action_Game/)|
+| Orange Cast |2016 - 2021|Junior Developer|[Steam](https://store.steampowered.com/app/1194050/Orange_Cast_SciFi_Space_Action_Game/)|
 
 # 📚 Currently learning
 
